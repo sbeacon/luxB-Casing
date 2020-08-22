@@ -1,6 +1,6 @@
 # luXb-Casing
 
-3D printable .stl files of luXbeacon are shared in this repository.
+PCB and schematic files of luXbeacon (nRF51) are shared in this repository.
 
 ## Built With
 
