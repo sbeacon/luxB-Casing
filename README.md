@@ -1,10 +1,10 @@
 # luXb-Casing
 
-PCB and schematic files of luXbeacon (nRF51) are shared in this repository.
+3D printable .stl files of luXbeacon casings are shared in this repository.
 
 ## Built With
 
-* Altium Designer
+* Fusion 360
 
 ## License
 
